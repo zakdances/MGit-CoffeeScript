@@ -1,3 +1,0 @@
-[submodule "submodules/node-uuid"]
-	path = submodules/node-uuid
-	url = https://github.com/broofa/node-uuid.git
