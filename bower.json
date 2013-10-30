@@ -1,6 +1,6 @@
 {
   "name": "MGit-CoffeeScript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/zakdances/MGit-CoffeeScript",
   "authors": [
     "Zak"
@@ -10,7 +10,6 @@
   "keywords": [
     "Git",
     "CoffeeScript",
-    "versionControl",
     "version-control"
   ],
   "license": "MIT",
