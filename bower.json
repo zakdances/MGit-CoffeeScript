@@ -1,0 +1,27 @@
+{
+  "name": "MGit-CoffeeScript",
+  "version": "0.0.0",
+  "homepage": "https://github.com/zakdances/MGit-CoffeeScript",
+  "authors": [
+    "Zak"
+  ],
+  "description": "Git for in-memory objects. Written in CoffeeScript. For Node.js and browsers.",
+  "main": "MGit.coffee",
+  "keywords": [
+    "Git",
+    "CoffeeScript",
+    "versionControl",
+    "version-control"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "node-uuid": "~1.4.1"
+  }
+}

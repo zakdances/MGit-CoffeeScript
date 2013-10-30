@@ -18,7 +18,7 @@ class UUID
 	@_generateUUIDString: () ->
 		uuid.v1()
 
-class Commit # called a "change" before it's been merged
+class Commit # refererd to as a "change" before it's been merged
 	constructor: (@id=new UUID()) ->
 		@synced = false
 
